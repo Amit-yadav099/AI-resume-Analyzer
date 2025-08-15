@@ -41,7 +41,7 @@ return(
                     </button>
                 ):(
                     <button className="auth-button" onClick={auth.signIn}>
-                        <p>log in</p>
+                        <p>log In</p>
                     </button>
                   )
                 }

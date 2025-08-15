@@ -3,7 +3,7 @@ import ResumeCard from "~/components/ResumeCard";
 import type { Route } from "./+types/home";
 import  {resumes}  from "constants/index";
 import { useEffect } from "react";
-import { useLocation, useNavigate } from "react-router";
+import { Link, useNavigate } from "react-router";
 import { usePuterStore } from "~/lib/puter"
 
 

@@ -27,7 +27,7 @@ export default function Home() {
 
 
 
-  return <main className="bg-[url('/images/bg-main.svg')] bg-cover">
+  return ( <main className="bg-[url('/images/bg-main.svg')] bg-cover">
     <Navbar></Navbar>
      
 
@@ -45,4 +45,5 @@ export default function Home() {
        )}
        </section>
      </main>
+  )
 }

@@ -4,11 +4,11 @@ interface Resume {
     jobTitle?: string;
     imagePath: string;
     resumePath: string;
-    feedback: Feedback; 
+    feedback: Feedback;
 }
 
 interface Feedback {
-    overallScore: number;b
+    overallScore: number;
     ATS: {
         score: number;
         tips: {

@@ -1,6 +1,7 @@
 <div align="center">
   <br />
     <h1 align="center">AI Resume Analyzer</h1>
+     <img src="public/images/FrontPage.png" alt="Project Banner">
   <br />
 
   <div>
